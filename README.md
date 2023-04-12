@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es el segundo repositorio de prueba del modulo 2 del prepcourse de Henry
+Este es un proyecto de prueba de como crear un repsositrorio y como clonarlo desde Githuba mi computadora
